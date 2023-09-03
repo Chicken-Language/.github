@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-if you can design a DSL, how tykura you are! 🐔 🕶️
+if you can design a DSL, how tykura(泰酷辣) you are! 🐔 🕶️
 <!--
 
 **Here are some ideas to get you started:**
